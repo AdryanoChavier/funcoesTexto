@@ -1,0 +1,7 @@
+C:\Users\adryano.chavier\source\repos\livrocsharp\livrocsharp\bin\Debug\livrocsharp.exe.config
+C:\Users\adryano.chavier\source\repos\livrocsharp\livrocsharp\bin\Debug\livrocsharp.exe
+C:\Users\adryano.chavier\source\repos\livrocsharp\livrocsharp\bin\Debug\livrocsharp.pdb
+C:\Users\adryano.chavier\source\repos\livrocsharp\livrocsharp\obj\Debug\livrocsharp.csproj.AssemblyReference.cache
+C:\Users\adryano.chavier\source\repos\livrocsharp\livrocsharp\obj\Debug\livrocsharp.csproj.CoreCompileInputs.cache
+C:\Users\adryano.chavier\source\repos\livrocsharp\livrocsharp\obj\Debug\livrocsharp.exe
+C:\Users\adryano.chavier\source\repos\livrocsharp\livrocsharp\obj\Debug\livrocsharp.pdb
